@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36213#Ypres-and-the-Battles-of-Ypres
 gutenberg_issued: '2011-05-25'
 gutenberg_type: Text
 identifiers:
