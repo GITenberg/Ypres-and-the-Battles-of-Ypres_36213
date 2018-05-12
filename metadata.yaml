@@ -1,0 +1,37 @@
+_repo: Ypres-and-the-Battles-of-Ypres_36213
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: Pneu Michelin (Firm)
+    aliases:
+    - 'Michelin (Firm : France)'
+    - Manufacture française des pneumatiques Michelin
+    - Michelin et cie.
+    - Manufacture francaise des pneumatiques Michelin
+    - Michelin & cie.
+    - Michelin Band (Firm)
+    gutenberg_agent_id: '44747'
+    url: http://www.gutenberg.org/2009/agents/44747
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36213'
+  lccn: '20007939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Michelin's Illustrated Guides to the Battle-fields (1914-1918)
+subjects:
+- !lcc 'D501'
+- !lcsh 'France -- Guidebooks'
+- !lcsh 'World War, 1914-1918 -- Battlefields -- Guidebooks'
+- !lcc 'DC'
+- !lcsh 'Belgium -- Guidebooks'
+- !lcsh 'World War, 1914-1918 -- Belgium -- Ieper'
+title: Ypres and the Battles of Ypres
+url: http://www.gutenberg.org/ebooks/36213
